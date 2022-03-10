@@ -1,0 +1,2 @@
+echo "Dice program"
+
